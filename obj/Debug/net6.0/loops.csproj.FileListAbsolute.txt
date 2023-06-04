@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\code_TRA\loops\bin\Debug\net6.0\loops.exe
+C:\Users\DELL\Desktop\code_TRA\loops\bin\Debug\net6.0\loops.deps.json
+C:\Users\DELL\Desktop\code_TRA\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+C:\Users\DELL\Desktop\code_TRA\loops\bin\Debug\net6.0\loops.dll
+C:\Users\DELL\Desktop\code_TRA\loops\bin\Debug\net6.0\loops.pdb
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\loops.dll
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\refint\loops.dll
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\loops.pdb
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
+C:\Users\DELL\Desktop\code_TRA\loops\obj\Debug\net6.0\ref\loops.dll
